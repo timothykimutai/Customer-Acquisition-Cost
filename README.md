@@ -78,7 +78,7 @@ Open `http://127.0.0.1:8050/` in your browser.
 This project is licensed under the MIT License.
 
 ## **Author & Contact**
-**Author:** Timothy Kimutai 
+**Author:** Timothy Kimutai\ 
 **Email:** timothykimtai@gmail.com
 
 
