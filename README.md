@@ -1,4 +1,9 @@
 # 📖 E-commerce CAC Optimization
+![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9%20|%203.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-1.x-blue?logo=pandas)
+![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
+![GitHub Actions](https://github.com/timothykimutai/Customer-Acquisition-Cost/workflows/main.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## **Project Overview**
 This project aims to help e-commerce businesses optimize their **Customer Acquisition Cost (CAC)** while maximizing **Return on Investment (ROI)**. By leveraging **data analytics, machine learning, and optimization techniques**, this solution provides actionable insights to reduce marketing costs and improve efficiency.
