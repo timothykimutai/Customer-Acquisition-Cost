@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9%20|%203.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-blue?logo=pandas)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
-![GitHub Actions](https://github.com/timothykimutai/Customer-Acquisition-Cost/workflows/main.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## **Project Overview**
